@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on AI integration in PDLC workflows
 
-🧑‍💻 Presently developing AI Skills for members of mine and adjacent teams
+🧑‍💻 Presently  building AI skills for enterprise use across my team and partner teams
 
 <h3>Things I code with</h3>
 <p>
